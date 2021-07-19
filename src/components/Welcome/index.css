@@ -1,0 +1,28 @@
+.bg {
+  background-color: skyblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  align-items: center;
+}
+.hd {
+  align-items: center;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+  font-family: serif;
+  color: pink;
+}
+.para {
+  align-items: center;
+  color: white;
+  margin: 20px;
+}
+.btn {
+  align-items: center;
+  border: 5px solid skyblue;
+  border-radius: 12px;
+  padding: 25px;
+}
